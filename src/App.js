@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import 'index.module.css';
+import styles from 'index.module.css';
 import House from './House';
 
 const HOUSES_ENDPOINT = 'https://ancient-taiga-31359.herokuapp.com/api/houses';
